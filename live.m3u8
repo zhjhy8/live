@@ -1,48 +1,48 @@
 #EXTM3U 
 #EXTINF:-1 tvg-logo=CCTV1.png tvg-name=CCTV1 group-title=央视频道,CCTV01综合
-http://223.110.241.139:6610/gitv/live1/G_CCTV-1-CQ/G_CCTV-1-CQ/1.m3u8
+http://117.148.187.12/PLTV/88888888/224/3221226154/index.m3u8
 #EXTINF:-1 tvg-logo=CCTV2.png tvg-name=CCTV2 group-title=央视频道,CCTV02财经
-http://223.110.241.139:6610/gitv/live1/G_CCTV-2-CQ/G_CCTV-2-CQ/1.m3u8
+http://117.148.187.12/PLTV/88888888/224/3221226138/index.m3u8
 #EXTINF:-1 tvg-logo=CCTV3.png tvg-name=CCTV3 group-title=央视频道,CCTV03综艺
 http://223.110.241.139:6610/gitv/live1/G_CCTV-3-CQ/G_CCTV-3-CQ/1.m3u8
 #EXTINF:-1 tvg-logo=CCTV4.png tvg-name=CCTV4 group-title=央视频道,CCTV04中文国际
 http://223.110.241.139:6610/gitv/live1/G_CCTV-4-CQ/G_CCTV-4-CQ/1.m3u8
 #EXTINF:-1 tvg-logo=CCTV5.png tvg-name=CCTV5 group-title=央视频道,CCTV05体育
-http://223.110.241.139:6610/gitv/live1/G_CCTV-5-CQ/G_CCTV-5-CQ/1.m3u8
+http://117.148.187.12/PLTV/88888888/224/3221226400/index.m3u8
 #EXTINF:-1 tvg-logo=CCTV5+.png tvg-name=CCTV5+ group-title=央视频道,CCTV05+体育赛事
-http://223.110.241.139:6610/gitv/live1/G_CCTV-5PLUS-CQ/G_CCTV-5PLUS-CQ/1.m3u8
+http://117.148.187.12/PLTV/88888888/224/3221226406/index.m3u8
 #EXTINF:-1 tvg-logo=CCTV6.png tvg-name=CCTV6 group-title=央视频道,CCTV06电影
 http://223.110.241.139:6610/gitv/live1/G_CCTV-6-CQ/G_CCTV-6-CQ/1.m3u8
-#EXTINF:-1 tvg-logo=CCTV7.png tvg-name=CCTV7 group-title=央视频道,CCTV7
-http://223.110.241.139:6610/gitv/live1/G_CCTV-7-HQ/G_CCTV-7-HQ/1.m3u8
-#EXTINF:-1 tvg-logo=CCTV8.png tvg-name=CCTV8 group-title=央视频道,CCTV8
+#EXTINF:-1 tvg-logo=CCTV7.png tvg-name=CCTV7 group-title=央视频道,CCTV07国际军事
+http://117.148.187.12/PLTV/88888888/224/3221226122/index.m3u8
+#EXTINF:-1 tvg-logo=CCTV8.png tvg-name=CCTV8 group-title=央视频道,CCTV08电视剧
 http://223.110.241.139:6610/gitv/live1/G_CCTV-8-CQ/G_CCTV-8-CQ/1.m3u8
-#EXTINF:-1 tvg-logo=CCTV9.png tvg-name=CCTV9 group-title=央视频道,CCTV9
-http://223.110.241.139:6610/gitv/live1/G_CCTV-9/G_CCTV-9/1.m3u8
-#EXTINF:-1 tvg-logo=CCTV10.png tvg-name=CCTV10 group-title=央视频道,CCTV10
-http://223.110.241.139:6610/gitv/live1/G_CCTV-10-HQ/G_CCTV-10-HQ/1.m3u8
-#EXTINF:-1 tvg-logo=CCTV11.png tvg-name=CCTV11 group-title=央视频道,CCTV11
+#EXTINF:-1 tvg-logo=CCTV9.png tvg-name=CCTV9 group-title=央视频道,CCTV09纪录
+http://117.148.187.12/PLTV/88888888/224/3221226156/index.m3u8
+#EXTINF:-1 tvg-logo=CCTV10.png tvg-name=CCTV10 group-title=央视频道,CCTV10科教
+http://117.148.187.12/PLTV/88888888/224/3221226199/index.m3u8
+#EXTINF:-1 tvg-logo=CCTV11.png tvg-name=CCTV11 group-title=央视频道,CCTV11戏曲
 http://223.110.241.139:6610/gitv/live1/G_CCTV-11-HQ/G_CCTV-11-HQ/1.m3u8
-#EXTINF:-1 tvg-logo=CCTV12.png tvg-name=CCTV12 group-title=央视频道,CCTV12
-http://223.110.241.139:6610/gitv/live1/CCTV-12/CCTV-12/1.m3u8
-#EXTINF:-1 tvg-logo=CCTV13.png tvg-name=CCTV13 group-title=央视频道,CCTV13
+#EXTINF:-1 tvg-logo=CCTV12.png tvg-name=CCTV12 group-title=央视频道,CCTV12社会与法
+http://117.148.187.12/PLTV/88888888/224/3221226167/index.m3u8
+#EXTINF:-1 tvg-logo=CCTV13.png tvg-name=CCTV13 group-title=央视频道,CCTV13新闻
 http://223.110.241.139:6610/gitv/live1/G_CCTV-13-HQ/G_CCTV-13-HQ/1.m3u8
-#EXTINF:-1 tvg-logo=CCTV14.png tvg-name=CCTV14 group-title=央视频道,CCTV14
-http://223.110.241.139:6610/gitv/live1/G_CCTV-14/G_CCTV-14/1.m3u8
-#EXTINF:-1 tvg-logo=CCTV15.png tvg-name=CCTV15 group-title=央视频道,CCTV15
+#EXTINF:-1 tvg-logo=CCTV14.png tvg-name=CCTV14 group-title=央视频道,CCTV14少儿
+http://117.148.187.12/PLTV/88888888/224/3221226126/index.m3u8
+#EXTINF:-1 tvg-logo=CCTV15.png tvg-name=CCTV15 group-title=央视频道,CCTV15音乐
 http://223.110.241.139:6610/gitv/live1/G_CCTV-15/G_CCTV-15/1.m3u8
 #EXTINF:-1 tvg-logo=CCTVNEWS.png tvg-name=CCTVNEWS group-title=央视频道,CCTVNEWS
 http://223.110.241.139:6610/gitv/live1/G_CCTV-NEWS/G_CCTV-NEWS/1.m3u8
-#EXTINF:-1 tvg-logo=发现之旅.png tvg-name=发现之旅 group-title=央视频道,发现之旅
+#EXTINF:-1 tvg-logo=发现之旅.png tvg-name=发现之旅 group-title=央视频道,CCTV发现之旅
 http://223.110.241.139:6610/gitv/live1/G_FAXIANZL/G_FAXIANZL/1.m3u8
-#EXTINF:-1 tvg-logo=老故事.png tvg-name=老故事 group-title=央视频道,老故事
+#EXTINF:-1 tvg-logo=老故事.png tvg-name=老故事 group-title=央视频道,CCTV老故事
 http://223.110.241.139:6610/gitv/live1/G_LAOGUSHI/G_LAOGUSHI/1.m3u8
-#EXTINF:-1 tvg-logo=女性时尚.png tvg-name=女性时尚 group-title=央视频道,女性时尚
+#EXTINF:-1 tvg-logo=女性时尚.png tvg-name=女性时尚 group-title=央视频道,CCTV女性时尚
 http://223.110.241.139:6610/gitv/live1/G_NVXINGSS/G_NVXINGSS/1.m3u8
 #EXTINF:-1 tvg-logo=凤凰中文 .png tvg-name=凤凰中文  group-title=卫视频道,凤凰中文 
-http://117.169.120.217:8080/live/fhchinese/.m3u8
+http://117.148.187.12/PLTV/88888888/224/3221226368/index.m3u8
 #EXTINF:-1 tvg-logo=凤凰资讯.png tvg-name=凤凰资讯 group-title=卫视频道,凤凰资讯
-http://117.169.120.217:8080/live/fhzixun/.m3u8
+http://117.148.187.8/PLTV/88888888/224/3221226491/index.m3u8
 #EXTINF:-1 tvg-logo=湖南卫视 .png tvg-name=湖南卫视  group-title=卫视频道,湖南卫视 
 http://112.50.243.8/PLTV/88888888/224/3221225827/1.m3u8
 #EXTINF:-1 tvg-logo=江苏卫视 .png tvg-name=江苏卫视  group-title=卫视频道,江苏卫视 
@@ -72,73 +72,73 @@ http://223.110.243.138/PLTV/3/224/3221227421/index.m3u8
 #EXTINF:-1 tvg-logo=江西卫视 .png tvg-name=江西卫视  group-title=卫视频道,江西卫视 
 http://112.50.243.8/PLTV/88888888/224/3221225868/1.m3u8
 #EXTINF:-1 tvg-logo=河北卫视 .png tvg-name=河北卫视  group-title=卫视频道,河北卫视 
-http://weblive.hebtv.com/live/hbws_bq/index.m3u8
+http://223.110.242.207:6610/gitv/live1/G_HEBEI/G_HEBEI/?IASHttpSessionId=OTT1746120180512074345007629
 #EXTINF:-1 tvg-logo=黑龙江卫视 .png tvg-name=黑龙江卫视  group-title=卫视频道,黑龙江卫视 
 http://112.50.243.8/PLTV/88888888/224/3221225862/1.m3u8
 #EXTINF:-1 tvg-logo=东南卫视.png tvg-name=东南卫视 group-title=卫视频道,东南卫视
-http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225961/1.m3u8
+http://223.110.242.207:6610/gitv/live1/DNWS/DNWS/?IASHttpSessionId=OTT1746120180512074345007629
 #EXTINF:-1 tvg-logo=四川卫视.png tvg-name=四川卫视 group-title=卫视频道,四川卫视
-http://39.134.65.87:80/PLTV/88888888/224/3221225497/index.m3u8
+http://223.110.242.207:6610/gitv/live1/SCWS/SCWS/?IASHttpSessionId=OTT1746120180512074345007629
 #EXTINF:-1 tvg-logo=广西卫视.png tvg-name=广西卫视 group-title=卫视频道,广西卫视
-http://223.110.245.165/ott.js.chinamobile.com/PLTV/3/224/3221226055/index.m3u8
+http://223.110.242.207:6610/gitv/live1/GXWS/GXWS/?IASHttpSessionId=OTT1746120180512074345007629
 #EXTINF:-1 tvg-logo=河南卫视.png tvg-name=河南卫视 group-title=卫视频道,河南卫视
-http://112.50.243.8/PLTV/88888888/224/3221225842/1.m3u8
+http://223.110.242.207:6610/gitv/live1/HENAN/HENAN/?IASHttpSessionId=OTT1746120180512074345007629
 #EXTINF:-1 tvg-logo=吉林卫视.png tvg-name=吉林卫视 group-title=卫视频道,吉林卫视
-http://112.50.243.8/PLTV/88888888/224/3221225851/1.m3u8
+http://223.110.242.207:6610/gitv/live1/G_JILIN/G_JILIN/?IASHttpSessionId=OTT1746120180512074345007629
 #EXTINF:-1 tvg-logo=山西卫视.png tvg-name=山西卫视 group-title=卫视频道,山西卫视
-http://112.50.243.8/PLTV/88888888/224/3221225839/1.m3u8
+http://223.110.242.207:6610/gitv/live1/SXWS/SXWS/?IASHttpSessionId=OTT1746120180512074345007629
 #EXTINF:-1 tvg-logo=贵州卫视.png tvg-name=贵州卫视 group-title=卫视频道,贵州卫视
 http://112.50.243.8/PLTV/88888888/224/3221226864/1.m3u8
 #EXTINF:-1 tvg-logo=青海卫视.png tvg-name=青海卫视 group-title=卫视频道,青海卫视
-http://112.50.243.8/PLTV/88888888/224/3221225841/1.m3u8
+http://223.110.242.207:6610/gitv/live1/G_QINGHAI/G_QINGHAI/?IASHttpSessionId=OTT1746120180512074345007629
 #EXTINF:-1 tvg-logo=云南卫视.png tvg-name=云南卫视 group-title=卫视频道,云南卫视
-http://112.50.243.8/PLTV/88888888/224/3221225853/1.m3u8
+http://223.110.242.207:6610/gitv/live1/G_YUNNAN/G_YUNNAN/?IASHttpSessionId=OTT1746120180512074345007629
 #EXTINF:-1 tvg-logo=宁夏卫视.png tvg-name=宁夏卫视 group-title=卫视频道,宁夏卫视
-http://39.134.65.162/PLTV/88888888/224/3221225579/index.m3u8
+http://223.110.242.207:6610/gitv/live1/G_NINGXIA/G_NINGXIA/?IASHttpSessionId=OTT1746120180512074345007629
 #EXTINF:-1 tvg-logo=新疆卫视.png tvg-name=新疆卫视 group-title=卫视频道,新疆卫视
-http://223.110.243.136:80/PLTV/3/224/3221225523/index.m3u8
+http://223.110.242.207:6610/gitv/live1/G_XINJIANG/G_XINJIANG/?IASHttpSessionId=OTT1746120180512074345007629
 #EXTINF:-1 tvg-logo=海南卫视.png tvg-name=海南卫视 group-title=卫视频道,海南卫视
-http://112.50.243.8/PLTV/88888888/224/3221225855/1.m3u8
+http://223.110.241.130:6610/gitv/live1/LYWS/LYWS
 #EXTINF:-1 tvg-logo=内蒙古卫视.png tvg-name=内蒙古卫视 group-title=卫视频道,内蒙古卫视
-http://39.134.65.162/PLTV/88888888/224/3221225577/index.m3u8
-#EXTINF:-1 tvg-logo=CETV1.png tvg-name=CETV1 group-title=卫视频道,CETV1
+http://223.110.242.207:6610/gitv/live1/G_NEIMENGGU/G_NEIMENGGU/?IASHttpSessionId=OTT1746120180512074345007629
+#EXTINF:-1 tvg-logo=cetv1.png tvg-name=cetv1 group-title=数字付费,CETV01中国教育
 http://112.50.243.8/PLTV/88888888/224/3221226954/1.m3u8
 #EXTINF:-1 tvg-logo=五星新闻综合.png tvg-name=五星新闻综合 group-title=卫视频道,五星新闻综合
 http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225973/1.m3u8
 #EXTINF:-1 tvg-logo=NewTV爱情喜剧.png tvg-name=NewTV爱情喜剧 group-title=电影频道,NewTV爱情喜剧
-http://183.207.249.12/PLTV/3/224/3221225525/index.m3u8
+http://117.148.187.12/PLTV/88888888/224/3221226660/index.m3u8
 #EXTINF:-1 tvg-logo=NewTV搏击.png tvg-name=NewTV搏击 group-title=体育电竞,NewTV搏击
-http://223.110.245.134/PLTV/3/224/3221226656/index.m3u8
+http://117.148.187.12/PLTV/88888888/224/3221226737/index.m3u8
 #EXTINF:-1 tvg-logo=NewTV潮妈辣婆.png tvg-name=NewTV潮妈辣婆 group-title=综艺财经,NewTV潮妈辣婆
-http://223.110.245.170/PLTV/3/224/3221226983/index.m3u8
+http://117.148.187.12/PLTV/88888888/224/3221226666/index.m3u8
 #EXTINF:-1 tvg-logo=NewTV动作电影.png tvg-name=NewTV动作电影 group-title=电影频道,NewTV动作电影
-http://183.207.249.15/PLTV/3/224/3221225529/index.m3u8
+http://117.148.187.12/PLTV/88888888/224/3221226747/index.m3u8
 #EXTINF:-1 tvg-logo=NewTV家庭剧场.png tvg-name=NewTV家庭剧场 group-title=电影频道,NewTV家庭剧场
-http://183.207.249.14/PLTV/3/224/3221225549/index.m3u8
+http://112.50.243.8/PLTV/88888888/224/3221225882/1.m3u8
 #EXTINF:-1 tvg-logo=NewTV健康有约.png tvg-name=NewTV健康有约 group-title=综艺财经,NewTV健康有约
-http://183.207.249.14/PLTV/3/224/3221225545/index.m3u8
+http://112.50.243.8/PLTV/88888888/224/3221225883/1.m3u8
 #EXTINF:-1 tvg-logo=NewTV金牌综艺.png tvg-name=NewTV金牌综艺 group-title=综艺财经,NewTV金牌综艺
-http://183.207.249.16/PLTV/3/224/3221225559/index.m3u8
+http://117.148.187.2/PLTV/88888888/224/3221226749/index.m3u8
 #EXTINF:-1 tvg-logo=NewTV惊悚悬疑.png tvg-name=NewTV惊悚悬疑 group-title=电影频道,NewTV惊悚悬疑
-http://183.207.249.7/PLTV/3/224/3221225561/index.m3u8
+http://117.148.187.12/PLTV/88888888/224/3221226656/index.m3u8
 #EXTINF:-1 tvg-logo=NewTV精品纪录.png tvg-name=NewTV精品纪录 group-title=综艺财经,NewTV精品纪录
-http://183.207.249.14/PLTV/3/224/3221225557/index.m3u8
+http://117.148.187.12/PLTV/88888888/224/3221226735/index.m3u8
 #EXTINF:-1 tvg-logo=NewTV精品体育.png tvg-name=NewTV精品体育 group-title=体育电竞,NewTV精品体育
-http://183.207.249.16/PLTV/3/224/3221225543/index.m3u8
+http://117.148.187.8/PLTV/88888888/224/3221226819/index.m3u8
 #EXTINF:-1 tvg-logo=NewTV军事评论.png tvg-name=NewTV军事评论 group-title=综艺财经,NewTV军事评论
-http://183.207.249.14/PLTV/3/224/3221225533/index.m3u8
+http://112.50.243.8/PLTV/88888888/224/3221225890/1.m3u8
 #EXTINF:-1 tvg-logo=NewTV明星大片.png tvg-name=NewTV明星大片 group-title=电影频道,NewTV明星大片
-http://183.207.249.14/PLTV/3/224/3221225535/index.m3u8
+http://117.148.187.12/PLTV/88888888/224/3221226751/index.m3u8
 #EXTINF:-1 tvg-logo=NewTV农业致富.png tvg-name=NewTV农业致富 group-title=综艺财经,NewTV农业致富
-http://183.207.249.15/PLTV/3/224/3221225537/index.m3u8
+http://117.148.187.12/PLTV/88888888/224/3221226664/index.m3u8
 #EXTINF:-1 tvg-logo=Newtv超级电影.png tvg-name=Newtv超级电影 group-title=电影频道,Newtv超级电影
 http://112.50.243.7/PLTV/88888888/224/3221225804/1.m3u8
 #EXTINF:-1 tvg-logo=NewTV古装剧场.png tvg-name=NewTV古装剧场 group-title=电视剧频道,NewTV古装剧场
-http://183.207.249.14/PLTV/3/224/3221225527/index.m3u8
+http://112.50.243.8/PLTV/88888888/224/3221225880/1.m3u8
 #EXTINF:-1 tvg-logo=NewTV精品大剧.png tvg-name=NewTV精品大剧 group-title=电视剧频道,NewTV精品大剧
-http://183.207.249.14/PLTV/3/224/3221225569/index.m3u8
+http://112.50.243.8/PLTV/88888888/224/3221225889/1.m3u8
 #EXTINF:-1 tvg-logo=NewTV军旅剧场.png tvg-name=NewTV军旅剧场 group-title=电视剧频道,NewTV军旅剧场
-http://183.207.249.15/PLTV/3/224/3221225531/index.m3u8
+http://112.50.243.8/PLTV/88888888/224/3221225887/1.m3u8
 #EXTINF:-1 tvg-logo=Newtv超级电视剧.png tvg-name=Newtv超级电视剧 group-title=电视剧频道,Newtv超级电视剧
 http://112.50.243.7/PLTV/88888888/224/3221225806/1.m3u8
 #EXTINF:-1 tvg-logo=卡酷少儿.png tvg-name=卡酷少儿 group-title=动画频道,卡酷少儿
@@ -171,7 +171,7 @@ http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225918/1.m3u8
 http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225933/1.m3u8
 #EXTINF:-1 tvg-logo=七彩戏剧.png tvg-name=七彩戏剧 group-title=综艺财经,七彩戏剧
 http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225934/1.m3u8
-#EXTINF:-1 tvg-logo=纪实.png tvg-name=纪实 group-title=综艺财经,纪实
+#EXTINF:-1 tvg-logo=纪实.png tvg-name=纪实 group-title=综艺财经,上海纪实
 http://112.50.243.8/PLTV/88888888/224/3221226958/1.m3u8
 #EXTINF:-1 tvg-logo=新娱乐.png tvg-name=新娱乐 group-title=综艺财经,新娱乐
 http://223.110.241.139:6610/gitv/live1/G_XINYULE/G_XINYULE/1.m3u8
